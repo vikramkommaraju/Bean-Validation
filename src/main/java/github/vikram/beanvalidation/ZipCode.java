@@ -1,4 +1,4 @@
-package vikram.javaee.beanvalidation;
+package github.vikram.beanvalidation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
