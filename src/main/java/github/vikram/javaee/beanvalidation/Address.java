@@ -1,4 +1,4 @@
-package github.vikram.beanvalidation;
+package github.vikram.javaee.beanvalidation;
 
 import javax.validation.constraints.NotNull;
 

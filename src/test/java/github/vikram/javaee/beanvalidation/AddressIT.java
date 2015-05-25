@@ -1,6 +1,7 @@
-package github.vikram.beanvalidation;
+package github.vikram.javaee.beanvalidation;
 
 import static org.junit.Assert.*;
+import github.vikram.javaee.beanvalidation.Address;
 
 import java.util.Set;
 

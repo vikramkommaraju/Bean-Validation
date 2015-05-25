@@ -1,6 +1,8 @@
-package github.vikram.beanvalidation;
+package github.vikram.javaee.beanvalidation;
 
 import static org.junit.Assert.assertEquals;
+import github.vikram.javaee.beanvalidation.Address;
+import github.vikram.javaee.beanvalidation.Customer;
 
 import java.text.DateFormat;
 import java.text.ParseException;

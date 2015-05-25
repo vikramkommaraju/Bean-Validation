@@ -1,4 +1,4 @@
-package github.vikram.beanvalidation;
+package github.vikram.javaee.beanvalidation;
 
 import javax.inject.Inject;
 import javax.validation.ConstraintValidator;
